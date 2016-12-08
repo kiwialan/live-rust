@@ -1,1 +1,1 @@
-# live-rust
+# I am a CIO without a development background. I would like my development team to engage in the github community as I believe this could be transformational for our company. This is my personal account to acquaint myself with this community.
